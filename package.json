@@ -1,0 +1,22 @@
+{
+  "name": "fs172-simple-calculator",
+  "version": "1.1.0",
+  "description": "this is a simple calculator",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "fs172-simple-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
